@@ -1,0 +1,26 @@
+.host ol{
+    display:flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    background-color: rgb(220, 181, 220);
+    padding: 15px;
+    
+
+
+}
+.container{
+    background-color:rgb(220, 181, 220) ;
+    margin-top:60%;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.deet ol{
+    list-style-type:" ";
+
+}
+.reva ul{
+    list-style-type:" ";
+    
+
+}
